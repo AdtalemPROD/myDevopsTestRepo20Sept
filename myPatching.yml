@@ -1,0 +1,10 @@
+---
+- hosts: all
+  become: yes
+  tasks: 
+    - name: Snapshots
+    - name: Before Output
+    - name: Stop app services
+    - name: Stop DB services
+    - name: Perform Patching
+    - name: After Output

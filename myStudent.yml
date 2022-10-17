@@ -1,0 +1,15 @@
+---
+- myStudents: 
+  - name:
+    phone: 
+    address:
+
+  - name:
+    phone:
+      - landline:
+      - mobile:    
+    address:
+
+  - name:
+    phone: 
+    address:
